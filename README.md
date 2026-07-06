@@ -5,10 +5,10 @@ This project recreates the look and feel of the Netflix homepage to practice mod
 
 Features:
 
-1.Responsive landing page.
+1. Responsive landing page.
 
-2.Modern UI inspired by Netflix.
+2. Modern UI inspired by Netflix.
 
-3.Clean and organized HTML & CSS code.
+3. Clean and organized HTML & CSS code.
 
-4.No JavaScript or external frameworks used.
+4. No JavaScript or external frameworks used.
